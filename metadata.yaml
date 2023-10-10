@@ -1,0 +1,36 @@
+_repo: Practical-school-discipline-b-Applied-methods-part-2_71746
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beery, Ray Coppock
+    alias: Beery, Ray C.
+    birthdate: 1892
+    gutenberg_agent_id: '51098'
+    url: http://www.gutenberg.org/2009/agents/51098
+description: ''
+gutenberg_issued: '2023-09-27'
+identifiers:
+  gutenberg: '71746'
+language: en
+pgterms:marc904:
+- http://babel.hathitrust.org/cgi/pt?id=mdp.39015063729068
+- seq=1
+- view=1up
+pgterms:marc905: 20150919214018beery
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Richard Tonsing, MFR, Missing pages were produced from images generously
+  made available by University of Victoria Libraries, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aPleasant Hill :$bInternational Academy of Discipline, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'School discipline'
+- !lcsh 'Teachers'
+- !lcc 'LB'
+- GITenberg
+title: 'Practical school discipline : $b Applied methods, part 2'
+url: http://www.gutenberg.org/ebooks/71746
